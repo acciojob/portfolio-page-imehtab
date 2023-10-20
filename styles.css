@@ -1,2 +1,30 @@
 
-/* Your CSS Code here. */
+*{
+	box-sizing: border-box;
+        padding: 0px;
+        margin: 0px;
+}
+#skills{
+	background-color: antiquewhite;
+	padding: 25px;
+	padding-top: 8px;
+	margin: 7px;
+	width: 315px;
+	height: 68px;
+}
+
+#projects{
+	background-color: antiquewhite;
+	padding: 25px;
+	padding-top: 8px;
+	margin: 7px;
+	width: 315px;
+	height: 88px;
+}
+#linkedIn{
+	padding: 7px;
+	font-weight: bold;
+}
+#name{
+	padding: 4px;
+}
